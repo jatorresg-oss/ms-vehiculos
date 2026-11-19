@@ -1,0 +1,14 @@
+# Dependencias: no se entregan
+vendor/
+vendor/**/
+
+# Configuración local
+.env
+
+# Solo se entrega composer.json
+composer.lock
+
+# Temporales
+*.log
+.DS_Store
+Thumbs.db
